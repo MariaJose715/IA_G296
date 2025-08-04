@@ -40,3 +40,5 @@ si sale error
 crear archivo requirements.txt
 pip freeze >requirements.txt
 clonar repositorio
+como desactivar el entorno virtual
+desactivate
