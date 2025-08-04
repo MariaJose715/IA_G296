@@ -29,4 +29,14 @@ print (s)
 # craeacion  de objetos series
 ```
 manejo de git
-<git init
+git init
+git add .
+git commit "algo"
+git commit -m "introduccion a pandas 5%"
+si sale error
+   git config --global user.email "you@example.com"
+   git config --global user.name "Your Name"
+
+crear archivo requirements.txt
+pip freeze >requirements.txt
+clonar repositorio
