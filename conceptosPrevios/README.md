@@ -42,3 +42,11 @@ pip freeze >requirements.txt
 clonar repositorio
 como desactivar el entorno virtual
 desactivate
+//
+git clone https://github.com/MariaJose715/IA_G296.git (para clonar la carpeta)
+python -m venv env (crear env)
+env\scripts\activate(activar env)
+powersell, ejecutar como adminitrador: set-ExecutionPolicy Unrestricted (sino funciona hacer esto)
+python.exe -m pip install --upgrade pip 
+pip install -r requirements.txt 
+
