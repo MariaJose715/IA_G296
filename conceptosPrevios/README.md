@@ -49,4 +49,8 @@ env\scripts\activate(activar env)
 powersell, ejecutar como adminitrador: set-ExecutionPolicy Unrestricted (sino funciona hacer esto)
 python.exe -m pip install --upgrade pip 
 pip install -r requirements.txt 
-
+git config --global user.email "ncuadroso@unal.edu.co"
+git config --global user.name "MariaJose715"
+cd .\conceptosPrevios\
+python .\IntPandas.py (para imprimir)
+pip install matplotlib (instalar libreria)
