@@ -54,3 +54,5 @@ git config --global user.name "MariaJose715"
 cd .\conceptosPrevios\
 python .\IntPandas.py (para imprimir)
 pip install matplotlib (instalar libreria)
+python .\IntNumpy.py
+clsy clear (borrar el terminal)
