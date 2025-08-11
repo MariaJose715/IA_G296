@@ -56,3 +56,4 @@ python .\IntPandas.py (para imprimir)
 pip install matplotlib (instalar libreria)
 python .\IntNumpy.py
 clsy clear (borrar el terminal)
+crear un nuevo entorno python -m venv env131, en simbolos del sistema
