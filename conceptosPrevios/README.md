@@ -57,3 +57,14 @@ pip install matplotlib (instalar libreria)
 python .\IntNumpy.py
 clsy clear (borrar el terminal)
 crear un nuevo entorno python -m venv env131, en simbolos del sistema
+scikit- learn
+
+
+Para nuevo repositorio
+   - elegir la carpeta y caragarla en el terminal
+   - git init
+   - git add .
+   - git commit -m "Proyecto 10%"
+   - crear un repositorio y tomar el link:(git remote add origin https://github.com/MariaJose715/Proyecto.git)
+   - git push -u origin main
+   - Para cargarla estar en la parte de abajo en nombre de la carpeta y e el buscador colocarle el main
